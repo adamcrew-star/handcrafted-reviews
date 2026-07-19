@@ -112,12 +112,8 @@ a {
 
 .brand img {
   width: auto;
-  height: 92px;
+  height: 72px;
   object-fit: contain;
-  background: #000;
-  padding: 12px 18px;
-  border-radius: 14px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
 }
 
 .step {
@@ -320,8 +316,7 @@ footer a:hover {
   }
 
   .brand img {
-    height: 76px;
-    padding: 10px 14px;
+    height: 60px;
   }
 
   .step {
